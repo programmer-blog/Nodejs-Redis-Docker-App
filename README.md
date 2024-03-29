@@ -1,6 +1,6 @@
 # Nodejs Redis application with docker
 
-### This application tracks visits of users to the applciation and stores in redis server. Upon refresh the visist count is increased.
+##### This application tracks visits of users to the applciation and stores in redis server. Upon refresh the visist count is increased.
 
 ### Commands to build the containers with docker compose
 
